@@ -17,8 +17,8 @@ features:
     details: 灵活的规则引擎，让您可以根据具体需求定制安全检测标准。
   - title: 详细报告
     details: 生成详尽的安全报告，帮助您快速了解和解决安全问题
-
-footer:     GPLv3许可证  | Copyright © 2024-2024
+footerHtml: true
+footer:         <p>本软件使用 <a href="https://www.gnu.org/licenses/gpl-3.0.html">GPLv3许可证</a> 发布。 | Copyright © 2024-2024</p>  
 ---
 
 ::: tip
