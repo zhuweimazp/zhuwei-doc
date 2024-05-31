@@ -2,10 +2,7 @@
 home: true
 title: 首页
 heroImage: /images/logo.png
-actions:
-  - text: GITHUB
-    link: https://vuejs.press/guide/introduction.html
-    type: secondary
+
 
 features:
   - title: 实时检测
@@ -21,7 +18,7 @@ features:
   - title: 详细报告
     details: 生成详尽的安全报告，帮助您快速了解和解决安全问题
 
-footer: MIT Licensed | Copyright © 2024-2024
+footer:     GPLv3许可证  | Copyright © 2024-2024
 ---
 
 ::: tip
